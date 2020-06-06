@@ -22,6 +22,8 @@ Completed contract that inherits the ERC721 token backed through zkSnarks that e
 
 Implements Succinct Zero-knowledge proofs (zkSnarks).
 
+### Contract ABI
+Can be found on eth-contracts/build/contracts folder on github cloned repository
 
 ---
 
