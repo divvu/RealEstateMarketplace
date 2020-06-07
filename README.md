@@ -7,7 +7,7 @@ A decentralized house listing service to prevent title issues that could be miti
 ## Versions
 
       truffle: Truffle v5.0.24
-      truffle-compiler: 0.5.1+commit.c8a2cb62.Emscripten.clang
+      truffle-compiler: 0.5.5+commit.c8a2cb62.Emscripten.clang
 
 
 ## Contracts
@@ -31,7 +31,7 @@ Can be found on eth-contracts/build/contracts folder on github cloned repository
 
 1. cd into project repro & install modules
 
-        cd RealEstateMarketPlace
+        cd RealEstateMarketplace
 
         npm install
 
@@ -103,7 +103,7 @@ Test minting with zkSnarks.
 
 6. Finding tokes on rinkeby OpenSea
 
-  https://rinkeby.opensea.io/assets/0x64f76b85a02f050aa36e1404a997eda9f3a6543b/1
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/1
 
 
 ## Results
@@ -254,10 +254,11 @@ Summary
 
 ## assets
 
-  https://rinkeby.opensea.io/assets/0x64f76b85a02f050aa36e1404a997eda9f3a6543b/1
-  https://rinkeby.opensea.io/assets/0x64f76b85a02f050aa36e1404a997eda9f3a6543b/2
-  https://rinkeby.opensea.io/assets/0x64f76b85a02f050aa36e1404a997eda9f3a6543b/3
-  https://rinkeby.opensea.io/assets/0x64f76b85a02f050aa36e1404a997eda9f3a6543b/4
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/1
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/2
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/3
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/4
+  https://rinkeby.opensea.io/assets/0x0b1d2f3a3ba4665e6eee6b8890487691129cdd6a/5
 
 
 
